@@ -13,7 +13,7 @@ Ini di lengkapi dengan MIT licenses, free to use
 
 
 ## Demo
-https://helthwisehive.vercel.app
+https://healthwisehive.vercel.app
 
 ## Run Locally
 
